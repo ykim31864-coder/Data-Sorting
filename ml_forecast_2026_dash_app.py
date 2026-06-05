@@ -49,6 +49,7 @@ def style_table(
     table_id: str,
     page_size: int = 10,
     selectable: bool = False,
+    exportable: bool = True,
 ) -> dash_table.DataTable:
     kwargs = {}
     if selectable:
@@ -61,6 +62,8 @@ def style_table(
         page_size=page_size,
         sort_action="native",
         filter_action="native",
+        export_format="csv" if exportable else "none",
+        export_headers="display",
         style_table={"overflowX": "auto"},
         style_cell={
             "fontFamily": "Arial, sans-serif",
@@ -299,7 +302,7 @@ app.index_string = """
       .filter-label { color: #607181; font-size: 13px; font-weight: 700; margin-bottom: 6px; }
       .section-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 10px; }
       .section-head h2 { margin: 0; }
-      .download-button { border: 1px solid #1f5d7a; background: #256f8f; color: #fff; border-radius: 6px; padding: 8px 12px; font-size: 13px; font-weight: 700; cursor: pointer; }
+      .download-button { border: 1px solid #1f5d7a; background: #256f8f; color: #fff; border-radius: 6px; padding: 10px 16px; font-size: 14px; font-weight: 800; cursor: pointer; min-width: 150px; }
       .download-button:hover { background: #1d5d78; }
       .drilldown { border: 1px solid #d8e0e6; background: #f8fbfd; border-radius: 8px; padding: 12px; margin-top: 12px; }
       .mini-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; margin-top: 10px; }
