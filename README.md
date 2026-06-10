@@ -2,111 +2,209 @@
 
 ## Overview
 
-This repository contains a collection of data analytics, business intelligence, and machine learning projects developed using real-world business datasets.
+Data Science student passionate about Business Intelligence, Data Analytics, Machine Learning, and Data Engineering.
 
-The projects focus on transforming raw business data into actionable insights through interactive dashboards, forecasting models, and data-driven decision-making tools.
-
----
-
-## Projects
-
-### Business Performance Dashboard
-
-An interactive business intelligence dashboard developed for pharmaceutical sales performance analysis.
-
-#### Highlights
-
-* KPI Dashboard
-* Monthly Sales Trend Analysis
-* Department Performance Comparison
-* Product Performance Monitoring
-* Hospital Performance Analysis
-* Sales Representative Performance Tracking
-* Interactive Filtering
-* Excel & CSV Export Functionality
-
-**Technologies:** Python, Pandas, Plotly, Dash, SQLite
+This repository showcases real-world analytics projects developed using pharmaceutical sales data. The projects focus on transforming raw business data into actionable insights through data warehousing, interactive dashboards, forecasting models, and business intelligence solutions.
 
 ---
 
-### Machine Learning Sales Forecasting Pipeline
+## Core Skills
 
-A machine learning pipeline designed to forecast future pharmaceutical sales using historical performance data.
+### Business Intelligence
+- KPI Dashboard Development
+- Executive Reporting
+- Interactive Analytics
+- Drill-Down Analysis
+- Performance Monitoring
 
-#### Highlights
+### Data Analytics
+- Exploratory Data Analysis (EDA)
+- Sales Performance Analysis
+- Business Performance Evaluation
+- Trend Analysis
+- Data Visualization
 
-* Data Preprocessing
-* Feature Engineering
-* Sales Forecasting Models
-* Forecast Validation
-* Interactive Forecast Dashboard
-* Performance Evaluation
+### Machine Learning
+- Sales Forecasting
+- Feature Engineering
+- Model Validation
+- Predictive Analytics
+- Forecast Performance Evaluation
 
-**Technologies:** Python, Pandas, NumPy, Scikit-Learn, Plotly
+### Data Engineering
+- ETL Pipeline Development
+- Data Cleaning & Transformation
+- Star Schema Design
+- SQLite Database Management
+- Data Warehouse Development
 
 ---
 
-### Pharmbio Sales Performance BI Dashboard
+# Projects
 
-A comprehensive business intelligence dashboard built on a star schema data warehouse architecture.
+## 1. Pharmaceutical Sales Analytics Dashboard
 
-#### Highlights
+A complete end-to-end Business Intelligence platform built using a Star Schema Data Warehouse architecture.
 
-* Sales Performance Monitoring
-* Department-Level Analytics
-* Team-Level Analytics
-* Hospital Performance Analysis
-* Employee Performance Analysis
-* Drill-Down Analytics
-* Target vs Actual Analysis
-* Excel Export Functionality
+### Highlights
 
-**Technologies:** Python, Dash, Plotly, SQLite, Data Warehousing
+- ETL Pipeline Development
+- Star Schema Data Warehouse
+- Interactive Dash Dashboard
+- KPI Monitoring
+- Department Performance Analysis
+- Team Performance Analysis
+- Employee Performance Analysis
+- Hospital Performance Analysis
+- Drill-Down Analytics
+- Target vs Actual Analysis
+- Excel Export Functionality
+
+### Technologies
+
+- Python
+- Pandas
+- NumPy
+- SQLite
+- Dash
+- Plotly
+- Data Warehousing
+
+---
+
+## 2. Machine Learning Sales Forecasting Pipeline
+
+A machine learning forecasting system designed to predict future pharmaceutical sales using historical business performance data.
+
+### Highlights
+
+- Data Preprocessing
+- Feature Engineering
+- Forecasting Model Development
+- Sales Prediction Dashboard
+- Forecast Validation
+- Performance Evaluation
+- Interactive Forecast Visualization
+- Export Functionality
+
+### Technologies
+
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- Plotly
+- Machine Learning
+
+---
+
+## 3. Business Performance Dashboard
+
+An interactive business intelligence dashboard developed to support pharmaceutical sales performance analysis and reporting.
+
+### Highlights
+
+- Executive KPI Dashboard
+- Monthly Sales Trend Analysis
+- Department Performance Comparison
+- Product Performance Monitoring
+- Hospital Performance Analysis
+- Sales Representative Analytics
+- Interactive Filtering
+- Drill-Down Reporting
+- Excel Export
+- CSV Export Validation
+
+### Technologies
+
+- Python
+- Pandas
+- Plotly
+- Dash
+- SQLite
 
 ---
 
 ## Technical Skills Demonstrated
 
 ### Data Analytics
-
-* Exploratory Data Analysis (EDA)
-* KPI Development
-* Business Performance Analysis
-* Sales Analytics
+- Business Performance Analysis
+- KPI Development
+- Sales Analytics
+- Trend Analysis
+- Data Exploration
 
 ### Business Intelligence
-
-* Interactive Dashboard Development
-* Executive Reporting
-* Data Visualization
-* Drill-Down Analytics
+- Dashboard Development
+- Executive Reporting
+- Interactive Visualization
+- Drill-Down Analytics
+- Decision Support Systems
 
 ### Machine Learning
-
-* Forecasting Models
-* Feature Engineering
-* Model Evaluation
-* Predictive Analytics
+- Forecasting Models
+- Feature Engineering
+- Model Evaluation
+- Predictive Analytics
 
 ### Data Engineering
-
-* ETL Processes
-* Data Cleaning
-* Star Schema Design
-* SQLite Database Management
+- ETL Pipelines
+- Data Warehousing
+- Star Schema Modeling
+- Database Design
+- Data Transformation
 
 ---
 
 ## Technologies Used
 
-* Python
-* Pandas
-* NumPy
-* Scikit-Learn
-* Plotly
-* Dash
-* SQLite
-* Git & GitHub
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- SQLite
+- Dash
+- Plotly
+- Git
+- GitHub
+
+---
+
+## Repository Structure
+
+```text
+Data-Sorting
+│
+├── Pharmaceutical Sales Analytics Dashboard
+│   ├── Screenshots
+│   ├── README.md
+│   ├── rdata_to_star_schema_sqlite.py
+│   └── Dashboard Application
+│
+├── Machine Learning Sales Forecasting Pipeline
+│   ├── Screenshots
+│   └── README.md
+│
+├── Business Performance Dashboard
+│   ├── Screenshots
+│   └── README.md
+│
+└── README.md
+```
+
+---
+
+## About Me
+
+I am a Data Science student with interests in:
+
+- Business Intelligence
+- Data Analytics
+- Machine Learning
+- Data Engineering
+- Data Visualization
+
+My goal is to transform complex business data into actionable insights through analytics, forecasting, and decision-support systems.
 
 ---
 
@@ -116,4 +214,4 @@ A comprehensive business intelligence dashboard built on a star schema data ware
 
 Data Science Student
 
-Business Analytics | Business Intelligence | Machine Learning | Data Visualization
+Business Intelligence | Data Analytics | Machine Learning | Data Engineering
