@@ -12,29 +12,28 @@ By leveraging historical sales data, the model generates future sales prediction
 
 ## Key Features
 
-### Data Processing
-- Sales Data Cleaning
-- Missing Value Handling
+### Sales Forecasting
+- 2026 Sales Prediction
+- Product-Level Forecasting
+- Team-Level Forecasting
+- Hospital-Level Forecasting
+
+### Machine Learning Pipeline
+- Data Preprocessing
 - Feature Engineering
-- Time-Based Feature Creation
+- Model Training
+- Forecast Generation
 
-### Machine Learning Models
-- Ridge Regression
-- Random Forest Regression
-- Model Comparison
-- Automated Training Pipeline
+### Forecast Validation
+- Prediction Accuracy Evaluation
+- Forecast Validation Dashboard
+- Model Performance Monitoring
 
-### Forecasting
-- Future Sales Prediction
-- Trend Projection
-- Monthly Sales Forecasting
-- Forecast Visualization
-
-### Model Evaluation
-- Holdout Validation
-- MAPE (Mean Absolute Percentage Error)
-- Model Performance Comparison
-- Prediction Accuracy Assessment
+### Dashboard & Reporting
+- Interactive Dashboard
+- Dynamic Filtering
+- CSV Export Functionality
+- Business Reporting Support
 
 ---
 
@@ -75,17 +74,29 @@ This forecasting pipeline helps organizations:
 
 ## Forecasting Results
 
-### Historical Sales Trend
-![Historical Sales](screenshots/historical_sales_trend.png)
+### ML Forecast Dashboard Overview
+<img width="1880" height="904" alt="ML Forecast Dashboard Overview" src="https://github.com/user-attachments/assets/5b3bc4d5-b4c4-420f-b90a-e44cb35775ad" />
 
-### Forecast Results
-![Sales Forecast](screenshots/sales_forecast.png)
+### 2026 Sales Forecast Summary
+<img width="1235" height="1028" alt="2026 Forecast Summary" src="https://github.com/user-attachments/assets/84edcaaa-bf93-4ea6-8d9c-e2ed2c203c0c" />
 
-### Model Performance Evaluation
-![Model Evaluation](screenshots/model_performance.png)
+### Product Forecast Summary
+<img width="1884" height="906" alt="Product Forecast Summary" src="https://github.com/user-attachments/assets/dcfcd5c8-fcb4-4a9a-ad49-89a402a52313" />
 
-### Forecast Dashboard
-![Forecast Dashboard](screenshots/forecast_dashboard.png)
+### Team Sales Forecast Analysis
+<img width="1883" height="909" alt="Team Sales Forecast Analysis" src="https://github.com/user-attachments/assets/fae7d1ff-89fb-46ec-9600-13f87a8b384c" />
+
+### Hospital Sales Forecast Ranking
+<img width="1879" height="904" alt="Hospital Sales Forecast Ranking" src="https://github.com/user-attachments/assets/6790a5ac-ba6b-4182-8557-478c259480eb" />
+
+### Forecast Validation Check
+<img width="1886" height="904" alt="Forecast Validation Check" src="https://github.com/user-attachments/assets/05a2f8a3-6c3a-449a-ae65-3b850ab156ef" />
+
+### Filter Functionality Test
+<img width="1888" height="957" alt="Filter Functionality Test" src="https://github.com/user-attachments/assets/b2fcb47f-4840-4eaf-97bb-f23dbe12f547" />
+
+### CSV Download Validation
+<img width="1883" height="953" alt="CSV Download Validation" src="https://github.com/user-attachments/assets/57ccb445-eeb1-475b-abf4-167a607847ab" />
 
 ---
 
