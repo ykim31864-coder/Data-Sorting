@@ -72,7 +72,7 @@ This dashboard helps management teams:
 <img width="1885" height="909" alt="Product Performance Summary" src="https://github.com/user-attachments/assets/9d13e294-58ed-46a9-8171-b0a66fcc2be0" /><img width="1887" height="907" alt="CSV Export Vaildation" src="https://github.com/user-attachments/assets/be5204c6-b879-440b-9e55-0390dd25662e" />
 
 ### CSV Export Validation
-![Uploading CSV Export Vaildation.png…]()
+<img width="1887" height="907" alt="CSV Export Vaildation" src="https://github.com/user-attachments/assets/35bc2d8e-a885-4072-bc7a-b48a89e52979" />
 
 ---
 
